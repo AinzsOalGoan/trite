@@ -1,4 +1,5 @@
-Trite - Video Commerce Platform
+**Trite - Video Commerce Platform**
+
 Trite is a modern, full-featured Next.js application designed for managing and monetizing video content. It seamlessly integrates with ImageKit for media handling and Razorpay for secure payments, offering a streamlined experience for creators and consumers alike.
 
 🚀 **Features**
@@ -64,7 +65,7 @@ Make sure you have:
 ```
 git clone <repository-url>
 
-cd trite-video-platform
+cd trite
 ```
 
 2. Install Dependencies
